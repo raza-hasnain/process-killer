@@ -5,7 +5,7 @@ You can run this script in the background by using Windows Task Scheduler.
 
 ## Here's how you can do it:
 
--  Save your PowerShell script in a file with a .ps1 extension (e.g., check_process.ps1).
+-  Save your PowerShell script in a file with a .ps1 extension (e.g., kill_process.ps1).
 
 -  Open Task Scheduler (you can search for it in the Start menu).
 
